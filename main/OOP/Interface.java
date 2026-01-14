@@ -7,8 +7,7 @@ package com.mycompany.main.OOP;
 /**
  *
  * @author satwashil
- */
-
+ 
 //innterface is mechanism in java to achieve abstraction there can only be anstract methods in java interface not method body
 // it is used to achieve abstraction and multiple inheritance in java 
 
