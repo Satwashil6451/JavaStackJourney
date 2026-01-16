@@ -24,10 +24,5 @@ public class TypeCasting {
         System.out.println(d);
         
         //interview question -- can we convert booloean means true or false into char so the answer is NO
-    }
-    
-    
-  
-    
-      
+    }     
 }
