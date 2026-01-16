@@ -8,6 +8,7 @@ package com.mycompany.main;
  *
  * @author satwashil
  */
+
 public class nested_for_loop_question {
     public static void main(String[] args) {
         System.out.println("Printing patern ");
