@@ -20,7 +20,6 @@ public class TypeCasting {
         //explicit casting 
         double c = 77.5;
         int d = (int)c;
-        
         System.out.println(d);
         
         //interview question -- can we convert booloean means true or false into char so the answer is NO
