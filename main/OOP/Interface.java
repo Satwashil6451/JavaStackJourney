@@ -4,7 +4,9 @@
  */
 
 An interface in Java is a blueprint of a class.
+
 It is used to define what a class must do, not how it does it.
+
 Think of an interface as a contract 📜.
 Any class that implements this contract must provide implementations for all its methods.
 Why do we need interfaces?
