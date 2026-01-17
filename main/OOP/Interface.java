@@ -2,6 +2,18 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+
+An interface in Java is a blueprint of a class.
+It is used to define what a class must do, not how it does it.
+Think of an interface as a contract 📜.
+Any class that implements this contract must provide implementations for all its methods.
+Why do we need interfaces?
+Interfaces help to:
+Achieve abstraction (hide implementation details)
+Support multiple inheritance (Java does not allow multiple class inheritance)
+Increase loose coupling (code becomes flexible & maintainable)
+Standardize behavior across different classes
+
 package com.mycompany.main.OOP;
 
 /**
