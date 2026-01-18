@@ -3,6 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
+
+/*
 An interface in Java is a blueprint of a class.
 
 It is used to define what a class must do, not how it does it.
@@ -14,7 +16,7 @@ Interfaces help to:
 Achieve abstraction (hide implementation details)
 Support multiple inheritance (Java does not allow multiple class inheritance)
 Increase loose coupling (code becomes flexible & maintainable)
-Standardize behavior across different classes
+Standardize behavior across different classes */
 
 package com.mycompany.main.OOP;
 
