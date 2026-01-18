@@ -10,7 +10,7 @@ package com.mycompany.main.OOP;
  */
 
 /*
-Functions in Java
+Functions in Java --
 • A Function is a block of code to perform a certain task.
 • A Function only runs when it is called.
 • Java provides some pre-defined methods, such as System.out.println(),
