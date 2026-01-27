@@ -8,6 +8,7 @@ package com.mycompany.main;
  *
  * @author satwashil
  */
+
 public class average {
     public static void main(String[] args) {
         
