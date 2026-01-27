@@ -2,6 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+
 package com.mycompany.main;
 
 /**
@@ -10,8 +11,8 @@ package com.mycompany.main;
  */
 
 /* q1 -- Get a number from user and check weather the given
-         number is a negative or positive number?
-*/
+         number is a negative or positive number? */
+
 import java.util.Scanner;
 public class video8_Questions {
     public static void main(String[] args) {
