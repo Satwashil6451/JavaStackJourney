@@ -10,6 +10,7 @@ package com.mycompany.main.OOP;
 Classes --
 A class can be defined as a blueprint from which you can create an
 individual object. Class doesn't consume any space.
+
 Syntax:
 class Person {
 // Class Body
